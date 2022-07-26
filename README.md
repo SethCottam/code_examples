@@ -25,34 +25,34 @@ Much of my work is owned by the entities I worked for. I've compiled some small 
 
 ## Code Examples
 
-#### Waze Connector
+### Waze Connector
   _(code_examples/python/national_waze_connector_class.py)_
 
   We regularly retried data from hundreds of sources. We called them connectors. I built this connector class to demo of a new way of handling connectors.
 
-#### Shared Connector Variables Installer
+### Shared Connector Variables Installer
   _(code_examples/shell_scripts/install_signal_connector_variables.sh)_
 
   This allowed for connecting to 1password to retrieve shared connector credentials. Since Bash and ZSH don't normally have robust error handling this was a good time to build a more robust shell script for the express purpose of saving my team time.
 
-#### Max OSX Settings
+### Max OSX Settings
   _(code_examples/shell_scripts/mac_osx_settings.sh)_
 
   Setting up a new computer can be time consuming. I built this shell to dramatically reduce the time it takes to set up a new mac computer, preferences, dock settings, and more. I use this on every new Mac I get. It saves an incredible amount of time and frustration.
   
-#### OSX Install Functions
+### OSX Install Functions
   _(code_examples/shell_scripts/osx_install_functions.sh)_
 
   This is for setting all my programs, file stucture, and some command line tools on a new or existing Mac computer. I've modified variations of this for specfic DevOps/IT setups for specific roles. It saves an incredible amount of time and frustration.
 
-#### BlytzPay ZSH Theme
+### BlytzPay ZSH Theme
   _(code_examples/zsh_themes/blytzpay.zsh-theme)_
 
   A newer example of a ZSH Theme I built for one of my Dev teams
 
   ![SpryCLI Autoloading Development Mode](https://github.com/sethcottam/code_examples/blob/main/screenshots/blytzpay.zsh-theme.png?raw=true)
 
-#### Personal ZSH Theme
+### Personal ZSH Theme
   _(code_examples/zsh_themes/sethcottam.zsh-theme)_
 
   A newer example of a ZSH Theme I built for one of my Dev teams
@@ -63,12 +63,12 @@ Much of my work is owned by the entities I worked for. I've compiled some small 
 
 ## Repo Examples
 
-#### SpiderBox
+### SpiderBox
   [GitHub - SpiderBox](https://github.com/SethCottam/SpiderBox)
 
   A tunnel to connect the web. This was a fairly quick setup to allow others to easily share a simple local host with other people/teammates without the need for a shared development server. This allows local hosting to be accessible via the web. It currently works best for webhosting with HTML, CSS, and Javascript.
 
-#### SpryCLI (Early Access Demo)
+### SpryCLI (Early Access Demo)
   [GitHub - SpryCLI](https://github.com/SethCottam/SpryCLI_early_access)
 
   This is a ZSH command line framework to allow simple scripts to automatically load into your shell for an attractive and helpful CLI experience. This is my favorite tool. The framework including installing, auto-loading scripts, formating, outputs, stats, counters, error handling, verbosity settings, searching, specialized git management, and more.
