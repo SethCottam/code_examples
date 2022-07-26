@@ -50,14 +50,14 @@ Much of my work is owned by the entities I worked for. I've compiled some small 
 
   A newer example of a ZSH Theme I built for one of my Dev teams
 
-  ![SpryCLI Autoloading Development Mode](https://github.com/sethcottam/code_examples/screenshots/blytzpay.zsh-theme.png)
+  ![SpryCLI Autoloading Development Mode](https://github.com/sethcottam/code_examples/blob/main/screenshots/blytzpay.zsh-theme.png?raw=true)
 
 #### Personal ZSH Theme
   _(code_examples/zsh_themes/sethcottam.zsh-theme)_
 
   A newer example of a ZSH Theme I built for one of my Dev teams
 
-  ![SpryCLI Autoloading Development Mode](https://github.com/sethcottam/code_examples/screenshots/sethcottam.zsh-theme.png)
+  ![SpryCLI Autoloading Development Mode](https://github.com/sethcottam/code_examples/blob/main/screenshots/sethcottam.zsh-theme.png?raw=true)
 
 ---
 
@@ -86,7 +86,7 @@ Much of my work is owned by the entities I worked for. I've compiled some small 
 
   _Note: I'm transitioning script management from to a newer methodology to make it easier to maintain a personal repo for those scripts outside of the SpryCLI framework. That is a work in progress._
 
-  ![SpryCLI Autoloading Development Mode](https://github.com/sethcottam/code_examples/screenshots/SpryCLI-autoloading-development-mode.png)
+  ![SpryCLI Autoloading Development Mode](https://github.com/sethcottam/code_examples/blob/main/screenshots/SpryCLI-autoloading-development-mode.png?raw=true)
 
 
 ---
