@@ -5,8 +5,8 @@
 Much of my work is owned by the entities I worked for. I've compiled some small portions of my personal projects and/or off the clock work. The goal is to start dropping some things from hackathons, code tests, and more snippets. I'll also try to include things from a lot of different languages.
 
 
-#### Directories
-  - code_examples
+#### Projects
+  - code_examples (Directories in this repo)
     + python
       - national_waze_connector_class.py (A data connector for Waze)
     + shell_scripts
@@ -16,8 +16,8 @@ Much of my work is owned by the entities I worked for. I've compiled some small 
     + zsh_themes
       - blytzpay.zsh-theme (Built a zsh theme for command line users on my dev team)
       - sethcottam.zsh-theme (Built a personal zsh theme)
-  - SpiderBox (Web hosting locally with a web tunnel for shared access)
-  - SpryCLI (Command line shell framework)
+  - [SpiderBox Repo](https://github.com/SethCottam/SpiderBox) (Web hosting locally with a web tunnel for shared access)
+  - [SpryCLI Repo](https://github.com/SethCottam/SpryCLI_early_access) (Command line shell framework)
 
 
 
